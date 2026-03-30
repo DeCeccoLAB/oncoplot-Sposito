@@ -12,8 +12,8 @@ The code was run on Ubuntu 22.04.4 LTS using R (version 4.4.0).
 
 The R packages used are:
 
-readxl (1.4.5)
-dplyr (1.2.0)
-tidyr (1.3.2)
-stringr (1.6.0)
-maftools (2.20.0)
+readxl (1.4.5)  
+dplyr (1.2.0)  
+tidyr (1.3.2)  
+stringr (1.6.0)  
+maftools (2.20.0)  
